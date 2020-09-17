@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da4c5ec9-a5d7-47f2-96d8-27fd6a99ddc2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aPva1D1fLhmWHAMNUfVIOZUO0Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anton\IdeaProjects\SimStation\src\sims" />
+      <recent name="C:\Users\anton\IdeaProjects\SimStation\src\sims\drunks" />
+      <recent name="C:\Users\anton\IdeaProjects\SimStation\src\sims\plague" />
+      <recent name="C:\Users\anton\IdeaProjects\SimStation\src\simstation" />
+      <recent name="C:\Users\anton\IdeaProjects\SimStation\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anton\IdeaProjects\SimStation\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SugarScape">
+    <configuration name="BirdPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sims.BirdPanel" />
+      <module name="SimStation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sims.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaguePanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sims.plague.PlaguePanel" />
+      <module name="SimStation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sims.plague.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrisonerPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sims.pdtourney.PrisonerPanel" />
+      <module name="SimStation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sims.pdtourney.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SugarPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sims.ants.SugarPanel" />
+      <module name="SimStation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sims.ants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SugarScape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sims.ants.SugarScape" />
+      <module name="SimStation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sims.ants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SugarScape" />
+        <item itemvalue="Application.PlaguePanel" />
+        <item itemvalue="Application.SugarPanel" />
+        <item itemvalue="Application.PrisonerPanel" />
+        <item itemvalue="Application.BirdPanel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da4c5ec9-a5d7-47f2-96d8-27fd6a99ddc2" name="Default Changelist" comment="" />
+      <created>1586650102867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586650102867</updated>
+      <workItem from="1586650105860" duration="12939000" />
+      <workItem from="1586723942875" duration="2255000" />
+      <workItem from="1586830138569" duration="7885000" />
+      <workItem from="1586892794907" duration="7703000" />
+      <workItem from="1586978041278" duration="2221000" />
+      <workItem from="1587248385027" duration="2000" />
+      <workItem from="1587493022689" duration="13000" />
+      <workItem from="1589820211616" duration="8262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1589820696617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589820696617" />
+    <state x="611" y="309" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586675294269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="611" y="309" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1586675294269" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589821908511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589821908511" />
+    <state width="1493" height="113" key="GridCell.Tab.0.bottom" timestamp="1589828904991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="113" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589828904991" />
+    <state width="1493" height="113" key="GridCell.Tab.0.center" timestamp="1589828904991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="113" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589828904991" />
+    <state width="1493" height="113" key="GridCell.Tab.0.left" timestamp="1589828904991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="113" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589828904991" />
+    <state width="1493" height="113" key="GridCell.Tab.0.right" timestamp="1589828904991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="113" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589828904991" />
+    <state x="499" y="178" key="extract.method.dialog" timestamp="1586664203809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="178" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1586664203809" />
+    <state x="209" y="33" key="new project wizard" timestamp="1587493033290">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587493033290" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586835183605">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586835183605" />
+  </component>
+</project>
